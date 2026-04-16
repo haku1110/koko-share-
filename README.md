@@ -48,6 +48,12 @@
 * **ユーザー体験 (UX):** `animateDpAsState` を活用し、範囲内に入った瞬間にピンが滑らかに大きくなる演出を入れることで、発見の喜びを視覚的に表現しました。
 
 ---
-https://photos.google.com/u/0/photo/AF1QipNH6Sfox6xv2yNjVF9YP0zgUpymnge55bzCMxpr
-https://photos.google.com/u/0/photo/AF1QipNKFs5sWOtED4D8VbmFAdfCI-JaYkfs3VgDDqUc
-https://photos.google.com/u/0/photo/AF1QipPKIF3kRcpHwsBO9-OckRQrPwTk2RV-A-BY1Gy-
+<img width="1080" height="2400" alt="Screenshot_2026-04-16-11-17-57-429_package com examp lemyapplication" src="https://github.com/user-attachments/assets/b4a21b25-3802-47fa-a782-0faed551d959" />
+
+
+
+<img width="1080" height="2400" alt="Screenshot_2026-04-16-11-18-15-105_package com examp lemyapplication" src="https://github.com/user-attachments/assets/17b64e9f-b6f6-45f3-9c7e-cb654981f41c" />
+
+
+
+<img width="1080" height="2400" alt="Screenshot_2026-04-16-11-18-20-034_package com examp lemyapplication" src="https://github.com/user-attachments/assets/86d888d8-2bf7-4eeb-92dc-7aaefba36dbd" />
