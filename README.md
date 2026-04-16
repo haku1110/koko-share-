@@ -48,4 +48,6 @@
 * **ユーザー体験 (UX):** `animateDpAsState` を活用し、範囲内に入った瞬間にピンが滑らかに大きくなる演出を入れることで、発見の喜びを視覚的に表現しました。
 
 ---
-
+https://photos.google.com/u/0/photo/AF1QipNH6Sfox6xv2yNjVF9YP0zgUpymnge55bzCMxpr
+https://photos.google.com/u/0/photo/AF1QipNKFs5sWOtED4D8VbmFAdfCI-JaYkfs3VgDDqUc
+https://photos.google.com/u/0/photo/AF1QipPKIF3kRcpHwsBO9-OckRQrPwTk2RV-A-BY1Gy-
